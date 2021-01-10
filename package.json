@@ -1,0 +1,16 @@
+{
+  "name": "mini-url",
+  "version": "1.0.0",
+  "description": "Url shortner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shortener",
+    "url",
+    "minify"
+  ],
+  "author": "Farhan Nazir",
+  "license": "MIT"
+}
