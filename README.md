@@ -1,6 +1,6 @@
 ## Mini URL
 
-A simple url shortener.
+A simple url shortener service.
 
 ### Installation
 
