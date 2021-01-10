@@ -4,7 +4,7 @@ A simple url shortener service.
 
 ### Installation
 
-`npm install --save mini-url`
+`npm install --save minify-url`
 
 ### Usage
 
