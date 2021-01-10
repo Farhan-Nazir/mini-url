@@ -1,4 +1,4 @@
-## Mini URL
+## Minify URL
 
 A simple url shortener service.
 
@@ -9,7 +9,7 @@ A simple url shortener service.
 ### Usage
 
 ```js
-const miniUrl = require("mini-url");
+const minifyUrl = require("minify-url");
 
 const longUrl =
   "https://www.google.com/search?q=mini-url+Shortner+npm&oq=mini-url+Shortner+npm&aqs=chrome..69i57.9701j0j9&sourceid=chrome&ie=UTF-8";
